@@ -1,0 +1,151 @@
+17b4aeca4dfb4696d75933ed5fb197ae9c0968ee
+f4507e89f215dcb2d121763737e8db1fc62bf59b
+46beb694fe7f9b04e3751409f2e1ec40980cccf5 
+9508cf38a5d729e363286b7cf4bd985b4ae947d2 
+d0c37557506a489922fbad4173af473688d08891 .gitignore
+eba74f4cd2e2acfb1470300d69b58d8cff458c68 .gitignore
+5ed15a1ee94b5052a09b4d6c5c8245cece7227a1 Resources
+eb17dd9fe806fbd96f7c6f192eeecd148f77fd5d Resources/Faces
+38c07d43666e511df17369eab008766e33504b2d Resources/Faces/train
+168d19978fd1189c3ad5acf203608a591b79792e Resources/Faces/train/Ben Afflek
+d5d748b7c0a5465f8e79c0f87ab1098eeed2e8f0 Resources/Faces/train/Ben Afflek/1.jpg
+2672f15c79e9c03459e994d52962d57d20b112fb Resources/Faces/train/Ben Afflek/10.jpg
+2bfb3a10986f605cd536cd1f3ca69d4d9ec318d8 Resources/Faces/train/Ben Afflek/11.jpg
+ac4aa1f34cd460ec8df6d0cd01db607055a8de8a Resources/Faces/train/Ben Afflek/12.jpg
+26778011091be573e1d839988782efb175ff2fec Resources/Faces/train/Ben Afflek/13.jpg
+ee0b6aa2203eb93cb40a2f22edd561b62b10389f Resources/Faces/train/Ben Afflek/14.jpg
+2f7e677ac130c08a6ac9c6241f679595874e1414 Resources/Faces/train/Ben Afflek/2.jpg
+9a7b492bc06611392c68ef7e2bf42778148e443c Resources/Faces/train/Ben Afflek/3.jpg
+0d1a7e00ed9d1a21459a65da45152f2b605c5347 Resources/Faces/train/Ben Afflek/4.jpg
+4b0bcd50876e1a118bb71b0def6d02944156c544 Resources/Faces/train/Ben Afflek/5.jpg
+64572f01097b3909e5279ea1b57433d721bf406a Resources/Faces/train/Ben Afflek/6.jpg
+17b54523458e212e7cfb22aa70e138789f3c6d14 Resources/Faces/train/Ben Afflek/7.jpg
+13dff504491f30316f0a647183383aa2aace2b46 Resources/Faces/train/Ben Afflek/8.jpg
+1b9bd89cd435d60b0e52d78de0f65e826ac7e2b4 Resources/Faces/train/Ben Afflek/9.jpg
+fe2a6b39a65ab257d09657ef02a08d0e96db607b Resources/Faces/train/Elton John
+9e940c40145b312fe0eaa9275d2263a0eb27cba0 Resources/Faces/train/Elton John/1.jpg
+a72f7ccc76c0c46e1f2d43b86f75961ddaca4423 Resources/Faces/train/Elton John/10.jpg
+899585dbc4a1940dede8a0ec2069703c99f17ab7 Resources/Faces/train/Elton John/11.jpg
+2d76ff2720359bd60cb06838a09d2e469807bd64 Resources/Faces/train/Elton John/12.jpg
+ab108ee9600db93e787fdfb38decba57b04abc80 Resources/Faces/train/Elton John/13.jpg
+c82b4318b3565eacd865cdc96f3b33c240ed3946 Resources/Faces/train/Elton John/14.jpg
+830ef56a583827e7ad069b1a4e1c0903a6b52fa0 Resources/Faces/train/Elton John/15.jpg
+fe9e56f060ee46dd1ab40d6c97c727dbf285a9cf Resources/Faces/train/Elton John/16.jpg
+61df7bd5a8e8e8c747e7ffd1dba86dc2166d7436 Resources/Faces/train/Elton John/17.jpg
+14165f9924a467aec2f745abaddf5c614e0e0296 Resources/Faces/train/Elton John/2.jpg
+77d23fdb5728b32e06eccd675609b0b55d972f62 Resources/Faces/train/Elton John/3.jpg
+eb7c28999f76bd4789bc345076638abe585275e5 Resources/Faces/train/Elton John/4.jpg
+884529b27b6f230d6a21358d2598b2832ca8d811 Resources/Faces/train/Elton John/5.jpg
+d2dd76544d83794de97a40fa25ea217099cfd331 Resources/Faces/train/Elton John/6.jpg
+3b283216a9c57dc76340e2698a9e1f0900a6c592 Resources/Faces/train/Elton John/7.jpg
+622d351c89f641588d8384b7a8fc192594498943 Resources/Faces/train/Elton John/8.jpg
+5bf52ab4278efb5f0507a55c064e801e364d3486 Resources/Faces/train/Elton John/9.jpg
+5d4334e8425f6d692f16a9e6afb9b0f399df6467 Resources/Faces/train/Jerry Seinfield
+8c57163bb93980c7105a44cddee17f962c67b5ba Resources/Faces/train/Jerry Seinfield/1.jpg
+94ac915d3d8d9069d26cdc2e4b14d7bb526497da Resources/Faces/train/Jerry Seinfield/10.jpg
+978d675946658a821ec04d112681a7e685cd015e Resources/Faces/train/Jerry Seinfield/11.jpg
+49f7fb9c4e46ef4d88272a78989b73c05b00caea Resources/Faces/train/Jerry Seinfield/12.jpg
+8a3fedfd7fc70a2714d4a9ed5728f429c006ede3 Resources/Faces/train/Jerry Seinfield/13.jpg
+6dda814fd92ade7f62f420576312b5a4a330aeaf Resources/Faces/train/Jerry Seinfield/14.jpg
+166e5089bce1e74190a4e2007e470f85553516d8 Resources/Faces/train/Jerry Seinfield/15.jpg
+bdc6e54dd73b9a6f1f4b3434ba1034c78b5eeca5 Resources/Faces/train/Jerry Seinfield/16.jpg
+5c1ced021947564dabf20ee22452fc4d2596c766 Resources/Faces/train/Jerry Seinfield/17.jpg
+1a4712b1638bb7f2112e6e64d41d472af0232ddb Resources/Faces/train/Jerry Seinfield/18.jpg
+66df83ad9818156ba86401b80d9977a297a08b33 Resources/Faces/train/Jerry Seinfield/19.jpg
+5981a1a2ffd2d1dc6271f744845655673612d234 Resources/Faces/train/Jerry Seinfield/2.jpg
+d3ab298b9baaefbdee8695f7c756de406cb4eb79 Resources/Faces/train/Jerry Seinfield/20.jpg
+f1edd15e5672e3558c76a7d5c0128ceeb28aa3aa Resources/Faces/train/Jerry Seinfield/21.jpg
+a835a2a4b12e3646a77bb045f07a494dd9c37386 Resources/Faces/train/Jerry Seinfield/3.jpg
+68c09a24092de7f74573f4b9fbee73c990c561d6 Resources/Faces/train/Jerry Seinfield/4.jpg
+fa9673d0299381a7637bb830d286890dd3337b20 Resources/Faces/train/Jerry Seinfield/5.jpg
+812398ad1cd3dd312c35c9b430d08a23bcd653a8 Resources/Faces/train/Jerry Seinfield/6.jpg
+8133ccd4265d1a2f2964bdc6d93044e886dc401c Resources/Faces/train/Jerry Seinfield/7.jpg
+9f74807376619b17705127c536bb7dcc6719e4ed Resources/Faces/train/Jerry Seinfield/8.jpg
+9a218f46bc91007556fd08964e051f1ad555b066 Resources/Faces/train/Jerry Seinfield/9.jpg
+8e3b9d56b779c99c943156b1e1bea42a49b0e5f2 Resources/Faces/train/Madonna
+bf0e38ba524781f8af93ac2e8878e16b7c641a62 Resources/Faces/train/Madonna/1.jpg
+a682410cd44c01c9af24c225d29bb22d931e6d78 Resources/Faces/train/Madonna/10.jpg
+1bbc1e708e6912a3d504cb3f1ce7f50aa497f732 Resources/Faces/train/Madonna/11.jpg
+596c9aedf36bb98d48fed0393dc54842a70c7f45 Resources/Faces/train/Madonna/12.jpg
+476657f6fa61d68b2e012aeff1ce2f22ababb2f7 Resources/Faces/train/Madonna/13.jpg
+4f6195d5a227d9098fb05c7585e14ff284076db8 Resources/Faces/train/Madonna/14.jpg
+d400f2901774e1b6a3ee4922722d28da3e26ccf8 Resources/Faces/train/Madonna/15.jpg
+702edc9600b8b9262df96dfa8a712fc31f5b3da6 Resources/Faces/train/Madonna/16.jpg
+56bd920cc3c0ef0a5c145473f8a2fc312e512313 Resources/Faces/train/Madonna/17.jpg
+d5f3f41db77ef35ef4968e2519bc2f7c003b5d13 Resources/Faces/train/Madonna/18.jpg
+241487387eb1f58f9ffaa625c126c442c6693472 Resources/Faces/train/Madonna/19.jpg
+2723f6d5065fedd2c0f64663ed2dcd97e584b837 Resources/Faces/train/Madonna/2.jpg
+9641af0b9fda928bd674c26053bd55fb880bec6e Resources/Faces/train/Madonna/3.jpg
+b0e0d69deb54a69a715af4af9dd92fe281f96183 Resources/Faces/train/Madonna/4.jpg
+ee42e534021068530bbd7a6d1342762c5f544cf1 Resources/Faces/train/Madonna/5.jpg
+f53bc115292b71acfc677435c74bb3cffddc7954 Resources/Faces/train/Madonna/6.jpg
+f731829b5b64272349057c8af985177930bb0535 Resources/Faces/train/Madonna/7.jpg
+d7ff14a80309f5eadc3f19e1b7d0750839c1e16f Resources/Faces/train/Madonna/8.jpg
+7ceb559279bd5af56d4ad778180e36a7140bcfd3 Resources/Faces/train/Madonna/9.jpg
+c7130e6e4ea1248cf13d5562e76afde24ebdf9b9 Resources/Faces/train/Mindy Kaling
+e580d14d14b26dd857fcca60d007389e9821b66b Resources/Faces/train/Mindy Kaling/1.jpg
+0dad6db03ad0c2d58a2e6085e383932e5269e38e Resources/Faces/train/Mindy Kaling/10.jpg
+42083aff4c44c1e955b99adf4ec57b0f26659101 Resources/Faces/train/Mindy Kaling/11.jpg
+c235e309c5b1218e348be863ba87404d623d29a3 Resources/Faces/train/Mindy Kaling/12.jpg
+565c064a45a01726a770007bc7118899911285c0 Resources/Faces/train/Mindy Kaling/13.jpg
+fc4af58bb323bc8a013797e47b11c47aee2ca676 Resources/Faces/train/Mindy Kaling/14.jpg
+185cdf39d4631c84a97e1971baeb4a186df80c76 Resources/Faces/train/Mindy Kaling/15.jpg
+eb291fd4db5d0010e41505f8f36f86a095e43572 Resources/Faces/train/Mindy Kaling/16.jpg
+1ad5f11ae94ae8d12b962c150b2b2028c5a26c3e Resources/Faces/train/Mindy Kaling/17.jpg
+afa0daa1e86251d01ac243ab9970a7b6133c4bb1 Resources/Faces/train/Mindy Kaling/18.jpg
+714a6d58a2625993bb2de2410b88f60981b55de0 Resources/Faces/train/Mindy Kaling/19.jpg
+463f88b7a47e02b405dd0d43239c6ea9b0037a33 Resources/Faces/train/Mindy Kaling/2.jpg
+a739265708cb0814e41dea86e27217b1e32c26b9 Resources/Faces/train/Mindy Kaling/20.jpg
+5f40f0fb7e57d3bf478a98cabe73b1257aa67991 Resources/Faces/train/Mindy Kaling/21.jpg
+b785d000587df714d35a2c480eccdf4d0d920781 Resources/Faces/train/Mindy Kaling/22.jpg
+16531b592a12943668225d1dbc8127a21ce4265e Resources/Faces/train/Mindy Kaling/3.jpg
+3edfb298e948df06b9b83fcb4008e741ce5153a6 Resources/Faces/train/Mindy Kaling/4.jpg
+a7b1cf96dcee36d1441a918593d53ef9011d074e Resources/Faces/train/Mindy Kaling/5.jpg
+f9169c44815ff6a869fdc450a2c3e5851d375a85 Resources/Faces/train/Mindy Kaling/6.jpg
+6050835fc13e55b715574bc32ce4734fb08938c9 Resources/Faces/train/Mindy Kaling/7.jpg
+2018b32b5af0d991e4ea4b92d64755ec70a6fbe3 Resources/Faces/train/Mindy Kaling/8.jpg
+60f26cd77fa0f2393e9376b1ad3865b71fb2db18 Resources/Faces/train/Mindy Kaling/9.jpg
+89893b0f116f5ad216b39307409fad3afaed6280 Resources/Faces/val
+47dec112b20616f0e9fd5d137f7e9162ff21c974 Resources/Faces/val/ben_afflek
+832de182f6032837792fd8661b5aaaca5b694f56 Resources/Faces/val/ben_afflek/1.jpg
+a6b31f46875e0a4320491e48f2244c5134fd9922 Resources/Faces/val/ben_afflek/2.jpg
+3718f12e00706b03e62d32eeb9e1a7dea6ed6951 Resources/Faces/val/ben_afflek/3.jpg
+fe12bd4aaa10d7930285450c3bb33f99a7373861 Resources/Faces/val/ben_afflek/4.jpg
+94e6f4acd746632793c8c89e4400fe7af0ae5b44 Resources/Faces/val/ben_afflek/5.jpg
+417fa8895f34b06366b779591a304bfbef76cd06 Resources/Faces/val/elton_john
+5389ed3e254611ceb1fd022182adbcaf83357bb3 Resources/Faces/val/elton_john/1.jpg
+a936a0f93afe1928dcdb589fe5aa773cc948ef97 Resources/Faces/val/elton_john/2.jpg
+bb4a910191d90a325c78f0c5d6d489ec2f2c7276 Resources/Faces/val/elton_john/3.jpg
+0c40520d4b085b2585f861ab55abba4cf4f49585 Resources/Faces/val/elton_john/4.jpg
+9c611bbcd86ba5f910d63886903b634376483559 Resources/Faces/val/elton_john/5.jpg
+72aa64dd933a93fd1555ab170c1a76ff3d95b36f Resources/Faces/val/jerry_seinfeld
+912def47d8dd0a705c154e7a0a3dc5aab46dc9d2 Resources/Faces/val/jerry_seinfeld/1.jpg
+1593ee239e380cc241005dc6d4dac649af5b2dcc Resources/Faces/val/jerry_seinfeld/2.jpg
+3308c1ce4a5c01f868be1ba4a3923619e7d0c13a Resources/Faces/val/jerry_seinfeld/3.jpg
+eea7ecbc50c64888312a9a417011ace9bc89c4eb Resources/Faces/val/jerry_seinfeld/4.jpg
+4d8ed13763bc262b9d72ae1b1a4193782075189e Resources/Faces/val/jerry_seinfeld/5.jpg
+0f2e7800222b92dcb5f8862bf76a943fd033a046 Resources/Faces/val/madonna
+21fff3ff2c2e9ee4ef0137eb7bae438c6706abe7 Resources/Faces/val/madonna/1.jpg
+97660f4d02c57aef090b49fda938f06132fa5012 Resources/Faces/val/madonna/2.jpg
+122cee64905214fe1835527b59ff711a605aa341 Resources/Faces/val/madonna/3.jpg
+7600a3d7a995a9fa6dc194c410db49750a3f6a16 Resources/Faces/val/madonna/4.jpg
+1f86ab086d495d942d869f855ae575d4ccfa499e Resources/Faces/val/madonna/5.jpg
+277d9ca4e9bad561e3be6f0ff237e24be0412c51 Resources/Faces/val/mindy_kaling
+124bda58a99ab1b4796a12fc55168bcdbf4d4969 Resources/Faces/val/mindy_kaling/1.jpg
+c46495812c350344c7e93bbb5c0fac2345a5001f Resources/Faces/val/mindy_kaling/2.jpg
+3d9be8ec4bf2ec08d1976e5991157e6954ca208a Resources/Faces/val/mindy_kaling/3.jpg
+f9ed371e19bf5b0f4d7133acc845b7eedd4d9aa3 Resources/Faces/val/mindy_kaling/4.jpg
+6427d2df9b8b9901ac353c5df3b59c853887adfb Resources/Faces/val/mindy_kaling/5.jpg
+36ce7a5a78d007253c4428d2de4d1afeda118ea4 Resources/Photos
+c9417eedf5ff84b6f99b045c61e0c9382a328974 Resources/Photos/cat.jpg
+37706ec7abbb124a4e6cc2919ad969c61221733e Resources/Photos/cat_large.jpg
+65e3530eb0dbeff52eef1a16f0ec15a645071c9b Resources/Photos/cats 2.jpg
+3b8d75d11f514487404489d31620aa9be2ebe3a7 Resources/Photos/cats.jpg
+118334bd2483379d33fc255e89353a59e8af90cd Resources/Photos/group 1.jpg
+b8817bc8e7b1796dbfe97d8c819acb7223d17132 Resources/Photos/group 2.jpg
+317cda47773f2637f4c9760be0119382d7aa8cf8 Resources/Photos/lady.jpg
+2bef86b140307af557def04019ef3eef3c4bf003 Resources/Photos/park.jpg
+c2afd6c3b5aa78ddbd096709db5e9f56535c37ce Resources/Videos
+5a6eee3d81294838a9d12d4b8d5caa7a9bb0f83d Resources/Videos/dog.mp4
+94fb4064b0fc006427dcd06e26ba73d69f784fa3 Resources/Videos/kitten.mp4
+57eaadeb62b5ac7868d65ddb7897fe5392484269 read.py
